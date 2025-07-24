@@ -1,0 +1,15 @@
+{
+  "name": "api-ception",
+  "version": "1.0.0",
+  "main": "api1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Nabbo Noushad Darad",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
